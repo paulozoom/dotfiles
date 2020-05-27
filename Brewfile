@@ -16,17 +16,6 @@ brew "tree"
 brew "wget"
 brew "youtube-dl"
 
-# Essential Apps
-mas "1Password 7", id: 1333542190
-
-# Development browsers
-cask "firefox"
-cask "firefox-developer-edition"
-cask "google-chrome"
-cask "google-chrome-canary"
-cask "microsoft-edge"
-cask "opera"
-
 # Development Tools
 cask "visual-studio-code"
 cask "dash"
@@ -34,10 +23,19 @@ cask "fork"
 cask "imageoptim"
 brew "svgo"
 
-# Personal Apps
+# Development Browsers
+cask "firefox"
+cask "firefox-developer-edition"
+cask "google-chrome"
+cask "google-chrome-canary"
+cask "microsoft-edge"
+cask "opera"
+
+# Apps
 cask "omnifocus"
 cask "tripmode"
 cask "cleanshot"
+mas "1Password 7", id: 1333542190
 mas "Deliveries", id: 924726344
 mas "Drafts", id: 1435957248
 mas "Instapaper", id: 1481302432
