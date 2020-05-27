@@ -17,7 +17,7 @@ brew "wget"
 brew "youtube-dl"
 
 # Essential Apps
-cask "1password"
+mas "1Password 7", id: 1333542190
 
 # Development browsers
 cask "firefox"
@@ -33,3 +33,15 @@ cask "dash"
 cask "fork"
 cask "imageoptim"
 brew "svgo"
+
+# Personal Apps
+cask "omnifocus"
+cask "tripmode"
+cask "cleanshot"
+mas "Deliveries", id: 924726344
+mas "Drafts", id: 1435957248
+mas "Instapaper", id: 1481302432
+mas "Lungo", id: 1263070803
+mas "ToothFairy", id: 1191449274
+mas "WhatsApp", id: 1147396723
+mas "Yoink", id: 457622435
