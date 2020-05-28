@@ -17,10 +17,11 @@ brew "wget"
 brew "youtube-dl"
 
 # Development Tools
-cask "visual-studio-code"
+cask "choosy"
 cask "dash"
 cask "fork"
 cask "imageoptim"
+cask "visual-studio-code"
 brew "svgo"
 
 # Development Browsers
@@ -32,6 +33,7 @@ cask "microsoft-edge"
 cask "opera"
 
 # Apps
+cask "alfred"
 cask "omnifocus"
 cask "tripmode"
 cask "cleanshot"
