@@ -16,6 +16,10 @@ brew "tree"
 brew "wget"
 brew "youtube-dl"
 
+# Design Tools
+mas "xScope", id: 889428659
+cask "sf-symbols"
+
 # Development Tools
 cask "choosy"
 cask "dash"
