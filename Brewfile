@@ -38,9 +38,10 @@ cask "opera"
 
 # Apps
 cask "alfred"
+cask "cleanshot"
+cask "focus"
 cask "omnifocus"
 cask "tripmode"
-cask "cleanshot"
 mas "1Password 7", id: 1333542190
 mas "Deliveries", id: 924726344
 mas "Drafts", id: 1435957248
