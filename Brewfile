@@ -47,6 +47,8 @@ mas "Deliveries", id: 924726344
 mas "Drafts", id: 1435957248
 mas "Instapaper", id: 1481302432
 mas "Lungo", id: 1263070803
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "ToothFairy", id: 1191449274
 mas "WhatsApp", id: 1147396723
 mas "Yoink", id: 457622435
