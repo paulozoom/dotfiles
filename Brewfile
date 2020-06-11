@@ -5,6 +5,8 @@ tap "homebrew/cask"
 
 # Brews
 brew "antigen"
+brew "fasd"
+brew "ffmpeg"
 brew "git"
 brew "imagemagick"
 brew "mas"

@@ -9,6 +9,7 @@ antigen bundle git
 antigen bundle bundler
 antigen bundle npm
 antigen bundle rbenv
+antigen bundle fasd
 # https://github.com/lukechilds/zsh-nvm
 antigen bundle lukechilds/zsh-nvm
 # Apply antigen settings
