@@ -2,6 +2,7 @@
 tap "homebrew/core"
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-drivers"
 
 # Brews
 brew "antigen"
@@ -43,6 +44,7 @@ cask "alfred"
 cask "cleanshot"
 cask "focus"
 cask "omnifocus"
+cask "sonos"
 cask "tripmode"
 mas "1Password 7", id: 1333542190
 mas "Deliveries", id: 924726344
