@@ -22,6 +22,7 @@ brew "youtube-dl"
 # Design Tools
 mas "xScope", id: 889428659
 cask "sf-symbols"
+cask "monodraw"
 
 # Development Tools
 cask "choosy"
