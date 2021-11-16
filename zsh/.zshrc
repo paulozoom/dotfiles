@@ -2,16 +2,24 @@
 source $(brew --prefix)/share/antigen/antigen.zsh
 # Load the oh-my-zsh library
 antigen use oh-my-zsh
-# Theme
-antigen theme robbyrussell
-# Standard plugins
-antigen bundle git
-antigen bundle bundler
-antigen bundle npm
+
+# Ruby
 antigen bundle rbenv
-antigen bundle fasd
+antigen bundle bundler
+# Node
 # https://github.com/lukechilds/zsh-nvm
+export NVM_COMPLETION=true
+export NVM_AUTO_USE=true
 antigen bundle lukechilds/zsh-nvm
+
+if [[ -o interactive ]] then
+  # Theme
+  antigen theme robbyrussell
+  # Standard plugins
+  antigen bundle git
+  antigen bundle fasd  
+fi
+
 # Apply antigen settings
 antigen apply
 
