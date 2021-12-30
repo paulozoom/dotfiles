@@ -27,17 +27,6 @@ cask "sketch"
 cask "figma"
 cask "framer"
 
-# Code
-mas "Xcode", id: 497799835
-cask "github"
-cask "visual-studio-code"
-
-# Development Browsers
-cask "firefox"
-cask "google-chrome"
-cask "microsoft-edge"
-cask "opera"
-
 # Apps
 cask "cleanshot"
 cask "fantastical"
@@ -56,3 +45,14 @@ mas "Things 3", id: 904280696
 mas "Tot", id: 1491071483
 mas "WhatsApp", id: 1147396723
 mas "Yoink", id: 457622435
+
+# Code
+mas "Xcode", id: 497799835
+cask "github"
+cask "visual-studio-code"
+
+# Development Browsers
+cask "firefox"
+cask "google-chrome"
+cask "microsoft-edge"
+cask "opera"
