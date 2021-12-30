@@ -36,7 +36,6 @@ cask "raycast"
 cask "signal"
 cask "slack"
 cask "tripmode"
-mas "1Password 7", id: 1333542190
 mas "Deliveries", id: 924726344
 mas "Lungo", id: 1263070803
 mas "Numbers", id: 409203825
@@ -46,13 +45,13 @@ mas "Tot", id: 1491071483
 mas "WhatsApp", id: 1147396723
 mas "Yoink", id: 457622435
 
-# Code
-mas "Xcode", id: 497799835
-cask "github"
-cask "visual-studio-code"
-
 # Development Browsers
 cask "firefox"
 cask "google-chrome"
 cask "microsoft-edge"
 cask "opera"
+
+# Code
+cask "github"
+cask "visual-studio-code"
+mas "Xcode", id: 497799835
