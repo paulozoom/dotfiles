@@ -32,6 +32,7 @@ cask "framer"
 # Code
 mas "Xcode", id: 497799835
 cask "github"
+cask "visual-studio-code"
 
 # Development Browsers
 cask "firefox"
@@ -41,6 +42,7 @@ cask "opera"
 
 # Apps
 cask "cleanshot"
+cask "fantastical"
 cask "flotato"
 cask "hazel"
 cask "raycast"
