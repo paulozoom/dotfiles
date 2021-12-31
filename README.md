@@ -15,5 +15,5 @@ brew bundle
 Set up dotfiles
 
 ```
-stow git zsh ruby vscode
+stow git zsh ruby
 ```
