@@ -19,7 +19,6 @@ cask "backblaze"
 cask "logitech-options"
 
 # Design Tools
-
 cask "sf-symbols"
 cask "imageoptim"
 cask "sketch"
